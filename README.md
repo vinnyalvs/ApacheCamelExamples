@@ -9,6 +9,8 @@ Each folder contains an example and its respectively source code and the pom.xml
 
 ## Example 1: A simple route to file transfer
 
+This example is in the works
+
 
 
 ## Example 2: Camel + Spring Boot

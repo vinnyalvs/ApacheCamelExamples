@@ -1,5 +1,17 @@
-Os Exemplos estão organizados assim:
+# Apache Camel Examples!
 
-O Simple Route mostra uma Rota que transposrta arquivos de uma pasta para outra criada com Apache Camel e Java Puro.
+Hi! Here are some Apache Camel examples using Spring Boot, only the first example is with pure java. I also use Maven as a dependency manager. 
+
+
+# Folders
+
+Each folder contains an example and its respectively source code and the pom.xml file
+
+## Example 1: A simple route to file transfer
+
+
+
+## Example 2: Camel + Spring Boot
+
 
 

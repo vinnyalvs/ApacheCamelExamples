@@ -17,7 +17,7 @@ This example is in the works
 
 This example shows Camel Integration with spring boot to build a simple REST consumer.
 
-We use Spring Boot @RequestMapping and use ProducerTemplate to create new subroutes and then routes the REST requsts trough Camel.
+We use Spring Boot @RequestMapping and use ProducerTemplate to create new subroutes and then routes the REST requests trough Camel.
 
 
 

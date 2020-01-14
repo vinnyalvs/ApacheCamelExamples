@@ -13,5 +13,9 @@ Each folder contains an example and its respectively source code and the pom.xml
 
 ## Example 2: Camel + Spring Boot
 
+This example shows Camel Integration with spring boot to build a simple REST consumer.
+
+We use Spring Boot @RequestMapping and use ProducerTemplate to create new subroutes and then routes the REST requsts trough Camel.
+
 
 
